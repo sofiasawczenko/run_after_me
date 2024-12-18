@@ -2,6 +2,8 @@
 
 This project demonstrates the integration of a Python script with the CoppeliaSim (formerly V-REP) simulation platform using the Remote API. The script allows controlling a Pioneer P3-DX robot, retrieving data from a Hokuyo laser sensor, and processing this data for navigation. **The primary goal of this project is simulating the deviation of a virtual robot in Python using the CoppeliaSim platform**. Through this simulation, the robot is programmed to navigate its environment while avoiding obstacles using sensor data. The script manages robot movement, processes laser data, and adjusts the robot's velocity to navigate around detected obstacles.
 
+**Resources:** https://www.coppeliarobotics.com
+
 ## Features
 
 - Connect to CoppeliaSim through the Remote API server.
